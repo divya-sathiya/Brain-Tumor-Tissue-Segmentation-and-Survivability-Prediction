@@ -1,4 +1,4 @@
-# Brain-Tumor-Tissue-Segmentation-and-Survivability-Prediction
+# Brain Tumor Tissue Segmentation and Survivability Prediction in BraTS 2020 MRI Scans
 
 Brain tumors, characterized by abnormal tissue growth, present significant diagnostic and treatment challenges. Early detection and precise diagnosis, primarily through Magnetic Resonance Imaging (MRI), are critical for improving patient outcomes. However, conventional methods relying on manual segmentation and expert interpretation are time-intensive and prone to variability. This project explores a deep learning-based approach leveraging the BraTS 2020 dataset to address two key tasks: tumor segmentation and survival prediction.
 
